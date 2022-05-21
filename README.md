@@ -22,4 +22,14 @@ This project was configured to start to building code, contains:
 - PHP 8+.
 - Node 14+.
 
+## Run:
+- composer install
+- yarn install or npm run install
+- php artisan serve
+- yarn watch or npm run watch (in another tab)
+- the app is running on 3000 port
+
+<br>
+<br>
+
 Created May 21, 2022.
